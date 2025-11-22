@@ -1,4 +1,4 @@
-# Shades
+# Colorized Background Patterns for TRMNL
 
 An adoption of the [TRMNL Design Framework](https://usetrmnl.com/framework/background#usage) background shades, converted to color and optimized for eink displays.
 
